@@ -4,7 +4,7 @@
     <AppBar />   
    </div>
    <uwy />
-    <div>gggggggggggggggggggggg
+    <div>
       <Nuxt />
     </div>
 
@@ -15,12 +15,10 @@
 </template>
 
 <script>
-// import AppBar from '~/components/AppBar';
+
 export default {
   name: "Admin",
-  // components: {
-  //   AppBar,
-  // },
+
 };
 </script>
 
